@@ -1,0 +1,8 @@
+{
+  "name": "tiktok-proxy-worker",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@cloudflare/wrangler": "^1.0.0"
+  }
+}
