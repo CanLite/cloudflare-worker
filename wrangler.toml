@@ -1,0 +1,9 @@
+name = "tiktok-proxy-worker"
+compatibility_date = "2025-08-07"
+main = "src/index.js"
+
+[triggers]
+routes = [
+  "canlite.online/tiktok/*",
+  "canlite.online/tiktok"
+]
